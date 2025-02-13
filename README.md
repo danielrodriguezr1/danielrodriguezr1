@@ -63,17 +63,3 @@
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">⚙️ GitHub Stats:</h3>
-<div align="center">
- 
-<img height= "150" src="https://github-readme-stats.vercel.app/api?username=danielrodriguezr1&theme=react&show_icons=true&include_all_commits=true" />
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrodriguezr1&theme=react&layout=compact" />
-
-</div>
-
-<br><br>
-
-
-
